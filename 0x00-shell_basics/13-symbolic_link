@@ -1,5 +1,5 @@
 #!/bin/bash
-ln -s /bin/ls__ls_i_
+ln -s /bin/ls__ls__
 
 
 
